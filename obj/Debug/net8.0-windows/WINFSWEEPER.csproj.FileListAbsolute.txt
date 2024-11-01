@@ -1,0 +1,16 @@
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\bin\Debug\net8.0-windows\WINFSWEEPER.exe
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\bin\Debug\net8.0-windows\WINFSWEEPER.deps.json
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\bin\Debug\net8.0-windows\WINFSWEEPER.runtimeconfig.json
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\bin\Debug\net8.0-windows\WINFSWEEPER.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\bin\Debug\net8.0-windows\WINFSWEEPER.pdb
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.AssemblyInfoInputs.cache
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.AssemblyInfo.cs
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.csproj.CoreCompileInputs.cache
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\refint\WINFSWEEPER.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.pdb
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.genruntimeconfig.cache
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\ref\WINFSWEEPER.dll
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.PreGame.resources
+D:\Documents\Workspace - C#\WINFORMS TEST ENVIRONMENT\WINFSWEEPER\obj\Debug\net8.0-windows\WINFSWEEPER.csproj.GenerateResource.cache
